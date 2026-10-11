@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="NtoskrnlPDB/NtoskrnlPDB.vcxproj" Id="2d6c45ee-1719-4d13-86d8-0ec2aa8743b4" />
+</Solution>
